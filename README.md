@@ -35,7 +35,7 @@
             <br/>Solidity
         </td>
         <td align="center" width="90">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/graphgl.svg" width="48" height="48" alt="GraphQL" />
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/graphql.svg" width="48" height="48" alt="GraphQL" />
             <br/>GraphQL
         </td>
         <td align="center" width="90">
