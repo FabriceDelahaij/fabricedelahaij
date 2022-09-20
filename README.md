@@ -15,7 +15,7 @@
 <table>
     <tr>
         <td align="center" width="90">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/html.svg" width="48" height="48" alt="HTML5" />
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/html5.svg" width="48" height="48" alt="HTML5" />
             <br/>HTML5
         </td>
         <td align="center" width="90">
@@ -35,7 +35,7 @@
             <br/>Solidity
         </td>
         <td align="center" width="90">
-            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/graphgk.svg" width="48" height="48" alt="GraphQL" />
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/graphgl.svg" width="48" height="48" alt="GraphQL" />
             <br/>GraphQL
         </td>
         <td align="center" width="90">
