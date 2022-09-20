@@ -11,43 +11,52 @@
 </p>
 
 
+## Languages &amp; Tools:
 <table>
     <tr>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="48" height="48" alt="HTML5" />
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/html.svg" width="48" height="48" alt="HTML5" />
             <br/>HTML5
         </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="48" height="48" alt="CSS3" />
-            <br/>CSS3
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/scss.svg" width="48" height="48" alt="SCSS" />
+            <br/>SCSS
         </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="48" height="48" alt="Javascript" />
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/javascript.svg" width="48" height="48" alt="Javascript" />
             <br/>Javascript
         </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="48" height="48" alt="React" />
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/react.svg" width="48" height="48" alt="React" />
             <br/>React
         </td>
-        <td align="center" width="96">
-            <img src="https://graphql.org/img/logo.svg" width="48" height="48" alt="GraphQL" />
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/solidity.svg" width="48" height="48" alt="Solidity" />
+            <br/>Solidity
+        </td>
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/graphgk.svg" width="48" height="48" alt="GraphQL" />
             <br/>GraphQL
         </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="48" height="48" alt="NodeJS" />
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/node.svg" width="48" height="48" alt="NodeJS" />
             <br/>NodeJS
         </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="48" height="48" alt="MySQL" />
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/mysql.svg" width="48" height="48" alt="MySQL" />
             <br/>MySQL
         </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="48" height="48" alt="MongoDB" />
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/mongodb.svg" width="48" height="48" alt="MongoDB" />
             <br/>MongoDB
         </td>
-        <td align="center" width="96">
-            <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" width="48" height="48" alt="ESLint" />
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/redis.svg" width="48" height="48" alt="Redis" />
+            <br/>Redis
+        </td>
+        <td align="center" width="90">
+            <img src="https://github.com/FabriceDelahaij/.github/blob/main/images/eslint.svg" width="48" height="48" alt="ESLint" />
             <br/>ESLint
         </td>
     </tr>
-<table>
+</table>
